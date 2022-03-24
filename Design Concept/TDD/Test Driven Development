@@ -1,2 +1,11 @@
 ## Test Driven Development(TDD)
 TDD is a technique where you describe the behavior of the code.
+
+## Testing Pyramid
+- The Testing Pyramid is Divided into three categories, starting from the bottom...
+    - Unit Test Cases
+        - This is testing your DAO layer, running the normal and simple tests, for example, when creating an account, you'll make sure it's creating it
+        with the correct credentials.
+
+
+
